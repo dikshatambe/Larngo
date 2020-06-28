@@ -1,2 +1,2 @@
-# Larngo
+# Learngo
 Fundamentals of Golang
